@@ -1,4 +1,4 @@
-
+// Ejercicio hecho en clase 2.
 class TicketManger {
 
     #eventos;
